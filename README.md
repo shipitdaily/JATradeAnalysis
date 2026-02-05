@@ -1,3 +1,3 @@
 # JATradeAnalysis
 JA Trade Stuff
-My name is Karina
+My name is not Karina
